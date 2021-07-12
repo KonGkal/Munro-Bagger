@@ -1,6 +1,4 @@
-# Munro Bagger - Thesis Project
-
-## Codeworks Thesis Project
+# Munro Bagger
 
 ## Description
 
